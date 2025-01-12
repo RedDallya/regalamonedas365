@@ -556,12 +556,11 @@ p {
     box-shadow: 0 0 20px #ff5722, 0 0 40px #ff5722, 0 0 60px #ff5722;
     text-align: center;
 }
-.whatsapp-icon{
-    width: 30px;  /* Cambia este valor para hacer el logo más grande */
-    height: 30px; /* Ajusta el valor según el ancho */
-    margin-right: 8px;
-    margin-top: -7px;
-    vertical-align: middle;
+.whatsapp-icon {
+    font-size: 34px; /* Tamaño del ícono */
+    color: #f6ff00; /* Color oficial de WhatsApp */
+    margin-right: 8px; /* Espaciado entre el ícono y el texto */
+    margin-top: -10px;
 }
 dfn,
 cite,
